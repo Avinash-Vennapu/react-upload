@@ -34,7 +34,7 @@ import Update from './Update'
 import Errorpage from './Errorpage'
 import React from 'react'
 import { RouterProvider,createBrowserRouter } from 'react-router-dom'
-
+//
 let r=createBrowserRouter([
   {
     path:"/",
